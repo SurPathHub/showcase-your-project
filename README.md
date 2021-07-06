@@ -11,6 +11,9 @@ Languages: HTML, CSS, JavaScript, TypeScript (example only)
 
 **Done.**
 
+
+:octocat: Please wait your project to add in `README.md`.
+
 <hr />
 
 ### Project Submission:
@@ -20,8 +23,3 @@ Languages: HTML, CSS, JavaScript, TypeScript (example only)
 ### Winner Announcement:
 **Date:** November 20, 2021
 
-<br />
-
-Please wait your project to add in `README.md`.
-
-<hr/>
