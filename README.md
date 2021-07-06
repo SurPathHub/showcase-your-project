@@ -11,7 +11,16 @@ Languages: HTML, CSS, JavaScript, TypeScript (example only)
 
 **Done.**
 
-<br/>
+<hr />
+
+### Project Submission:
+**Start of Project Submission:** November 8, 2021<br />
+**End of Project Submission:** November 10, 2021
+
+### Winner Announcement:
+**Date:** November 20, 2021
+
+<br />
 
 Please wait your project to add in `README.md`.
 
