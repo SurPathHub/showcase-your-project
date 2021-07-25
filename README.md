@@ -4,7 +4,7 @@ This repository is for **#100 Days Of Code challenge**. Link: [surpathhub.github
 **Make an [issues](https://github.com/SurPathHub/showcase-your-project/issues) in this repository and follow this sample format**
 ```
 Project Name:
-Project Link: 
+Repository Link: 
 Tools: Visual Studio Code (example only)
 Languages: HTML, CSS, JavaScript, TypeScript (example only)
 ```
