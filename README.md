@@ -9,8 +9,7 @@ Tools: Visual Studio Code (example only)
 Languages: HTML, CSS, JavaScript, TypeScript (example only)
 ```
 
-**Done.**
-
+👉[Click to submit your project](https://github.com/SurPathHub/showcase-your-project/issues/new/choose)
 
 :octocat: Please wait your project to add in `README.md`.
 
