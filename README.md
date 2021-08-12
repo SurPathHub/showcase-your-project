@@ -1,6 +1,8 @@
 # Showcase your project
 This repository is for **#100 Days Of Code challenge**. Link: [surpathhub.github.io/events](https://surpathhub.github.io/events/).
 
+👉[Click to see the rules](https://github.com/SurPathHub/events/issues/28)
+
 **Make an [issues](https://github.com/SurPathHub/showcase-your-project/issues) in this repository and follow this sample format**
 ```
 Project Name:
